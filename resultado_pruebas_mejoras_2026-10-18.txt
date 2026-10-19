@@ -1,0 +1,184 @@
+TAP version 13
+# Subtest: 53 fichas con singularidad y fuente HTTPS
+ok 1 - 53 fichas con singularidad y fuente HTTPS
+  ---
+  duration_ms: 1.144609
+  type: 'test'
+  ...
+# Subtest: las celebraciones sin patronazgo explícito conservan fuente documental
+ok 2 - las celebraciones sin patronazgo explícito conservan fuente documental
+  ---
+  duration_ms: 0.253261
+  type: 'test'
+  ...
+# Subtest: three launch comarcas are complete in the playable catalogue
+ok 3 - three launch comarcas are complete in the playable catalogue
+  ---
+  duration_ms: 11.315888
+  type: 'test'
+  ...
+# Subtest: La Cañada de Verich explicitly explains its heraldic status
+ok 4 - La Cañada de Verich explicitly explains its heraldic status
+  ---
+  duration_ms: 5.193781
+  type: 'test'
+  ...
+# Subtest: celebration uses confetti and completion visuals are present
+ok 5 - celebration uses confetti and completion visuals are present
+  ---
+  duration_ms: 0.479931
+  type: 'test'
+  ...
+# Subtest: las 53 fichas de lanzamiento están completas en todos los campos culturales
+ok 6 - las 53 fichas de lanzamiento están completas en todos los campos culturales
+  ---
+  duration_ms: 0.487903
+  type: 'test'
+  ...
+# Subtest: verified heraldry uses deploy-safe embedded files or verified Wikimedia URLs
+ok 7 - verified heraldry uses deploy-safe embedded files or verified Wikimedia URLs
+  ---
+  duration_ms: 1.182877
+  type: 'test'
+  ...
+# Subtest: every municipality has the core facts that previously appeared blank
+ok 8 - every municipality has the core facts that previously appeared blank
+  ---
+  duration_ms: 0.371958
+  type: 'test'
+  ...
+# Subtest: symbol status is explicit for all 53 municipalities
+ok 9 - symbol status is explicit for all 53 municipalities
+  ---
+  duration_ms: 0.391628
+  type: 'test'
+  ...
+# Subtest: free origin is the sole unlocked card and cannot be changed for another free card
+ok 10 - free origin is the sole unlocked card and cannot be changed for another free card
+  ---
+  duration_ms: 13.57388
+  type: 'test'
+  ...
+# Subtest: real municipal borders determine available exploration; distant places cannot be skipped to
+ok 11 - real municipal borders determine available exploration; distant places cannot be skipped to
+  ---
+  duration_ms: 0.413732
+  type: 'test'
+  ...
+# Subtest: failed and repeated attempts do not consume allowance
+ok 12 - failed and repeated attempts do not consume allowance
+  ---
+  duration_ms: 0.478078
+  type: 'test'
+  ...
+# Subtest: unlimited discovery remains enabled for testing, including across day boundaries
+ok 13 - unlimited discovery remains enabled for testing, including across day boundaries
+  ---
+  duration_ms: 0.53281
+  type: 'test'
+  ...
+# Subtest: midnight is based on Spain peninsular time, including summer and winter
+ok 14 - midnight is based on Spain peninsular time, including summer and winter
+  ---
+  duration_ms: 0.410596
+  type: 'test'
+  ...
+# Subtest: restored progress preserves cards and quota, and removes unknown IDs
+ok 15 - restored progress preserves cards and quota, and removes unknown IDs
+  ---
+  duration_ms: 0.688474
+  type: 'test'
+  ...
+# Subtest: all pilot municipalities are reachable from each possible origin
+ok 16 - all pilot municipalities are reachable from each possible origin
+  ---
+  duration_ms: 244.595704
+  type: 'test'
+  ...
+# Subtest: new expedition resets only the current route and preserves the permanent collection
+ok 17 - new expedition resets only the current route and preserves the permanent collection
+  ---
+  duration_ms: 0.608023
+  type: 'test'
+  ...
+# Subtest: version 1 saves migrate without losing discovered cards
+ok 18 - version 1 saves migrate without losing discovered cards
+  ---
+  duration_ms: 0.43259
+  type: 'test'
+  ...
+# Subtest: cartography has 731 unique municipalities and symmetric real shared-edge adjacency
+ok 19 - cartography has 731 unique municipalities and symmetric real shared-edge adjacency
+  ---
+  duration_ms: 2.16972
+  type: 'test'
+  ...
+# Subtest: version 3 favorites survive reloads and new expeditions
+ok 20 - version 3 favorites survive reloads and new expeditions
+  ---
+  duration_ms: 0.460853
+  type: 'test'
+  ...
+# Subtest: undiscovered municipalities never reveal names or heraldry on map
+ok 21 - undiscovered municipalities never reveal names or heraldry on map
+  ---
+  duration_ms: 25.480109
+  type: 'test'
+  ...
+# Subtest: all 53 destinations render four lesson screens and offer 2–4 unambiguous answers
+ok 22 - all 53 destinations render four lesson screens and offer 2–4 unambiguous answers
+  ---
+  duration_ms: 125.973418
+  type: 'test'
+  ...
+# Subtest: newly acquired territory opens routes beyond the origin; card collection persists
+ok 23 - newly acquired territory opens routes beyond the origin; card collection persists
+  ---
+  duration_ms: 11.039413
+  type: 'test'
+  ...
+# Subtest: all content matches the official area and INE population records; image files exist and carry credits
+ok 24 - all content matches the official area and INE population records; image files exist and carry credits
+  ---
+  duration_ms: 1.463909
+  type: 'test'
+  ...
+# Subtest: all 53 quizzes remain capped and unambiguous after collecting all 53 municipalities
+ok 25 - all 53 quizzes remain capped and unambiguous after collecting all 53 municipalities
+  ---
+  duration_ms: 87.477127
+  type: 'test'
+  ...
+# Subtest: missing flags and shields fall back to genuine outlines rather than fictional imagery
+ok 26 - missing flags and shields fall back to genuine outlines rather than fictional imagery
+  ---
+  duration_ms: 1.308135
+  type: 'test'
+  ...
+# Subtest: map pins and collection hide all undiscovered destination names, even with many frontier towns
+ok 27 - map pins and collection hide all undiscovered destination names, even with many frontier towns
+  ---
+  duration_ms: 11.731422
+  type: 'test'
+  ...
+# Subtest: collection shows comarca progress, favorites and review challenge controls
+ok 28 - collection shows comarca progress, favorites and review challenge controls
+  ---
+  duration_ms: 3.097392
+  type: 'test'
+  ...
+# Subtest: practice challenge contains at most three comarca answers and never changes discovery state
+ok 29 - practice challenge contains at most three comarca answers and never changes discovery state
+  ---
+  duration_ms: 5.529185
+  type: 'test'
+  ...
+1..29
+# tests 29
+# suites 0
+# pass 29
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 435.099033

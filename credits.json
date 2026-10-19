@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Bandera de Aguaviva",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_Aguaviva.svg",
+    "author": "Meuble héraldique Fleur de lis.svg: Syryatsu / derivative work: ecelan",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "localFile": "assets/aguaviva-flag.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Bandera de Foz-Calanda",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_Foz-Calanda.svg",
+    "author": "Daarbos86",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": "assets/foz-calanda-flag.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Bandera de La Ginebrosa",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Ginebrosa.svg",
+    "author": "Ecelan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": "assets/ginebrosa-flag.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Bandera de Torrevelilla",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrevelilla.svg",
+    "author": "Escut_de_La_Torre_de_Vilella.svg: user:Willtron derivative work: ecelan (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": "assets/torrevelilla-flag.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de Aguaviva",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Aguaviva.svg",
+    "author": "Anenja",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": "assets/aguaviva-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de Foz-Calanda",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Foz-Calanda.svg",
+    "author": "Daarbos86",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": "assets/foz-calanda-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de La Ginebrosa",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_La_Ginebrosa.svg",
+    "author": "Ecelan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": "assets/ginebrosa-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de Torrevelilla",
+    "source": "https://commons.wikimedia.org/wiki/File:Escut_de_La_Torre_de_Vilella.svg",
+    "author": "Willtron",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": "assets/torrevelilla-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de Aragón (cabecera)",
+    "source": "https://commons.wikimedia.org/wiki/File:Official_Coat_of_Arms_of_Aragon.svg",
+    "author": "Heralder",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "localFile": "assets/aragon-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons. Archivo sin modificar; halo, sombra y reflejo de luz añadidos en la presentación mediante CSS."
+  },
+  {
+    "name": "Bandera de Alcorisa",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_Alcorisa.svg",
+    "author": "Willtron",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": "assets/alcorisa-flag.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Bandera de La Cerollera",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Cerollera.svg",
+    "author": "Ecelan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": "assets/cerollera-flag.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de Alcorisa",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Alcorisa.svg",
+    "author": "Willtron",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": "assets/alcorisa-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de La Cerollera",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_La_Cerollera.svg",
+    "author": "Ecelan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "localFile": "assets/cerollera-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de Mas de las Matas",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Mas_de_las_Matas.svg",
+    "author": "Willtron",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "localFile": "assets/mas-matas-shield.png",
+    "changes": "Miniatura PNG generada por Wikimedia Commons; sin otras modificaciones."
+  },
+  {
+    "name": "Escudo de Castelserás",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Castelser%C3%A1s.svg",
+    "author": "Willtron",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Escudo de La Mata de los Olmos",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_La_Mata_de_los_Olmos.svg",
+    "author": "Daarbos86",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Bandera de La Mata de los Olmos",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_La_Mata_de_los_Olmos.svg",
+    "author": "Wikimedia Commons contributor",
+    "license": "See source page",
+    "licenseUrl": "https://commons.wikimedia.org/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Escudo de Seno",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Seno_(Teruel).svg",
+    "author": "Wikimedia Commons contributor",
+    "license": "See source page",
+    "licenseUrl": "https://commons.wikimedia.org/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Escudo de Torrecilla de Alcañiz",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Torrecilla_de_Alca%C3%B1iz_(Teruel).svg",
+    "author": "Erlenmeyer",
+    "license": "See source page",
+    "licenseUrl": "https://commons.wikimedia.org/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Bandera de Torrecilla de Alcañiz",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_Torrecilla_de_Alca%C3%B1iz.svg",
+    "author": "Ecelan / Erlenmeyer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Escudo de Ráfales",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_R%C3%A1fales_(Teruel).svg",
+    "author": "Wikimedia Commons contributor",
+    "license": "See source page",
+    "licenseUrl": "https://commons.wikimedia.org/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Bandera de Ráfales",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_R%C3%A1fales_(Teruel).svg",
+    "author": "Erlenmeyer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Escudo de Cretas",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Cretas_(Teruel).svg",
+    "author": "Erlenmeyer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Bandera de Cretas",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_Cretas_(Teruel).svg",
+    "author": "Erlenmeyer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Escudo de Peñarroya de Tastavins",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Pe%C3%B1arroya_de_Tastavins.svg",
+    "author": "Asqueladd",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Escudo de Miravete de la Sierra",
+    "source": "https://commons.wikimedia.org/wiki/File:Escudo_de_Miravete_de_la_Sierra_(Teruel).svg",
+    "author": "Erlenmeyer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  },
+  {
+    "name": "Bandera de Miravete de la Sierra",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandera_de_Miravete_de_la_Sierra_(Teruel).svg",
+    "author": "Erlenmeyer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "localFile": null,
+    "changes": "Se muestra mediante el archivo original alojado en Wikimedia Commons; sin modificaciones."
+  }
+]
